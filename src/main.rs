@@ -14,7 +14,7 @@ use reqwest::{Client, Error, Response};
 use serde::Deserialize;
 use zip::ZipArchive;
 
-const MIRAI_REPO: &str = "https://gitee.com/peratx/mirai-repo/raw/master";
+const MIRAI_REPO: &str = "https://github.com/peratx/mirai-repo/raw/master";
 
 const PROG_VERSION: &str = "1.0.3";
 
