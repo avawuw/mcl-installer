@@ -1,4 +1,4 @@
-# iTXTech MCL Installer
+# iTXTech MCL Installer（Rebuild By avawuw and limitcool）
 
 `iTX Technologies Mirai Console Loader Installer` ，支持自动下载`Java`
 运行时和 [iTXTech Mirai Console Loader](https://github.com/avawuw/mirai-console-loader) 。
